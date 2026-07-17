@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- ===== PRIMARY SEO META ===== -->
+<title>NoForcedPacks — Disable Server-Forced Resource Packs or Individual Textures (Minecraft Fabric Mod)</title>
+<meta name="description" content="NoForcedPacks is a client-side Fabric mod that lets you disable a server's forced resource pack — or toggle individual textures on and off — from Minecraft's vanilla menu. Persists across restarts. Tested on Hypixel.">
+<link rel="canonical" href="https://YOURNAME.github.io/noforcedpacks/"><!-- EDIT to your Pages URL -->
+
+<!-- ===== OPEN GRAPH / SOCIAL ===== -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="NoForcedPacks — Disable Server-Forced Resource Packs or Individual Textures">
+<meta property="og:description" content="Disable a server's forced resource pack, or toggle individual textures on/off, from the vanilla menu. Client-side Fabric mod, persists across restarts, tested on Hypixel.">
+<meta property="og:url" content="https://YOURNAME.github.io/noforcedpacks/"><!-- EDIT -->
+<!-- <meta property="og:image" content="https://YOURNAME.github.io/noforcedpacks/preview.png"> EDIT: add a 1200x630 image -->
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- ===== JSON-LD: SoftwareApplication ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NoForcedPacks",
+  "applicationCategory": "GameApplication",
+  "operatingSystem": "Minecraft Java Edition (Fabric Loader)",
+  "description": "Client-side Fabric mod that turns a server's forced resource pack into optional, per-texture toggles in Minecraft's vanilla Resource Packs menu. Disable the whole forced pack or just individual textures; choices persist across reconnects and restarts.",
+  "url": "https://YOURNAME.github.io/noforcedpacks/",
+  "downloadUrl": "https://modrinth.com/mod/noforcedpacks",
+  "installUrl": "https://modrinth.com/mod/noforcedpacks",
+  "softwareRequirements": "Fabric Loader, Fabric API",
+  "author": { "@type": "Person", "name": "merenotnoone" },
+  "copyrightHolder": { "@type": "Person", "name": "merenotnoone" },
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+}
+</script>
+
+<!-- ===== JSON-LD: FAQPage (must match the visible FAQ below) ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I disable a server's forced resource pack in Minecraft?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Install NoForcedPacks (a client-side Fabric mod). It turns the server's forced resource pack into an optional entry in the vanilla Resource Packs menu, so you can switch it off. Your choice is saved across reconnects and restarts." }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I disable only specific textures from a server pack instead of the whole pack?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes. NoForcedPacks supports per-texture control: you can keep the textures you like from a forced pack and switch off only the individual textures you don't want, rather than disabling the entire pack." }
+    },
+    {
+      "@type": "Question",
+      "name": "Does NoForcedPacks work on Hypixel and Hypixel Skyblock?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes. NoForcedPacks is tested on Hypixel and Hypixel Skyblock. It is fully client-side, so it works on servers you do not own." }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to install NoForcedPacks on the server?",
+      "acceptedAnswer": { "@type": "Answer", "text": "No. NoForcedPacks is 100% client-side. Only you need it installed; nothing is required on the server." }
+    },
+    {
+      "@type": "Question",
+      "name": "Will it affect resource packs I installed myself?",
+      "acceptedAnswer": { "@type": "Answer", "text": "No. NoForcedPacks only affects server-forced packs. Your own user-installed and built-in packs are left untouched." }
+    }
+  ]
+}
+</script>
+
+<style>
+  :root{
+    --bg:#ffffff; --fg:#1a1a1a; --muted:#555; --card:#f5f6f8;
+    --border:#e2e4e8; --accent:#2f7d32; --accent-fg:#ffffff; --link:#1a6dc4;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0f1115; --fg:#e8eaed; --muted:#9aa0a6; --card:#171a20;
+      --border:#262a31; --accent:#3ea043; --accent-fg:#0f1115; --link:#5aa9f0; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);
+    font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;}
+  .wrap{max-width:820px;margin:0 auto;padding:2.5rem 1.25rem 4rem;}
+  header{border-bottom:1px solid var(--border);padding-bottom:1.5rem;margin-bottom:2rem;}
+  h1{font-size:2.1rem;line-height:1.15;margin:0 0 .5rem;}
+  .lede{font-size:1.15rem;color:var(--fg);margin:.5rem 0 1.25rem;}
+  .tagline{color:var(--muted);font-style:italic;margin:0 0 1.25rem;}
+  h2{font-size:1.4rem;margin:2.25rem 0 .75rem;}
+  h3{font-size:1.05rem;margin:1.25rem 0 .35rem;}
+  ul{padding-left:1.2rem;} li{margin:.3rem 0;}
+  a{color:var(--link);text-decoration:none;} a:hover{text-decoration:underline;}
+  .btns{display:flex;flex-wrap:wrap;gap:.75rem;margin:1.25rem 0;}
+  .btn{display:inline-block;background:var(--accent);color:var(--accent-fg);
+    padding:.7rem 1.15rem;border-radius:8px;font-weight:600;}
+  .btn.secondary{background:transparent;color:var(--fg);border:1px solid var(--border);}
+  .faq dt{font-weight:600;margin-top:1rem;}
+  .faq dd{margin:.25rem 0 0;color:var(--fg);}
+  table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.95rem;}
+  th,td{border:1px solid var(--border);padding:.5rem .7rem;text-align:left;vertical-align:top;}
+  th{background:var(--card);}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:1rem 1.25rem;margin:1.5rem 0;}
+  footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border);color:var(--muted);font-size:.9rem;}
+  .overflow{overflow-x:auto;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>NoForcedPacks</h1>
+  <p class="lede"><strong>Disable a server's forced resource pack — or toggle individual textures on and off — from Minecraft's vanilla Resource Packs menu.</strong></p>
+  <p class="tagline">A server forcing its texture pack on you? Take back control — the whole pack, or just the textures you don't want.</p>
+  <div class="btns">
+    <a class="btn" href="https://modrinth.com/mod/noforcedpacks">Download on Modrinth</a>
+    <a class="btn secondary" href="https://www.curseforge.com/minecraft/mc-mods/noforcedpacks">Download on CurseForge</a>
+    <a class="btn secondary" href="https://github.com/YOURNAME/noforcedpacks">Source on GitHub</a><!-- EDIT -->
+  </div>
+</header>
+
+<p>NoForcedPacks is a <strong>100% client-side Fabric mod</strong> that intercepts the resource packs servers force on you and converts them into optional entries in the vanilla <strong>Resource Packs</strong> menu. Switch the whole forced pack off, or disable just the <strong>individual textures</strong> you don't want, and your choices persist across reconnects and restarts. Nothing needs to be installed on the server. Tested on <strong>Hypixel</strong> and <strong>Hypixel Skyblock</strong>.</p>
+
+<h2>Features</h2>
+<ul>
+  <li><strong>Disable server-forced resource packs</strong> — never be stuck with a texture pack you didn't choose.</li>
+  <li><strong>Per-texture control</strong> — keep the textures you like and switch off only the individual ones you don't. Not all-or-nothing.</li>
+  <li><strong>Persistent</strong> — your settings survive reconnects and game restarts.</li>
+  <li><strong>Non-destructive</strong> — your own installed and built-in packs are untouched.</li>
+  <li><strong>Client-side only</strong> — works on any server, including ones you don't own.</li>
+  <li><strong>Tested on Hypixel / Hypixel Skyblock.</strong></li>
+</ul>
+
+<h2>How to use</h2>
+<ol>
+  <li>Install <a href="https://fabricmc.net/use/">Fabric Loader</a> and <a href="https://modrinth.com/mod/fabric-api">Fabric API</a>.</li>
+  <li>Put the NoForcedPacks <code>.jar</code> in your <code>mods</code> folder and launch.</li>
+  <li>Join a server that forces a resource pack, then open <strong>Options → Resource Packs</strong>.</li>
+  <li>The forced pack (and its individual textures) now appear as toggles. Turn off what you don't want — it's remembered next time.</li>
+</ol>
+
+<h2 id="faq">FAQ</h2>
+<dl class="faq">
+  <dt>How do I disable a server's forced resource pack in Minecraft?</dt>
+  <dd>Install NoForcedPacks. It turns the server's forced pack into an optional entry in the vanilla Resource Packs menu, so you can switch it off — and your choice is saved across reconnects and restarts.</dd>
+
+  <dt>Can I disable only specific textures instead of the whole pack?</dt>
+  <dd>Yes. NoForcedPacks supports per-texture control: keep the textures you like from a forced pack and switch off only the individual textures you don't want.</dd>
+
+  <dt>Does it work on Hypixel and Hypixel Skyblock?</dt>
+  <dd>Yes — it's tested on both. It's fully client-side, so it works on servers you don't own.</dd>
+
+  <dt>Do I need to install it on the server?</dt>
+  <dd>No. NoForcedPacks is 100% client-side. Only you need it installed.</dd>
+
+  <dt>Will it affect resource packs I installed myself?</dt>
+  <dd>No. It only affects server-forced packs; your own packs are left untouched.</dd>
+</dl>
+
+<h2>Compatibility</h2>
+<div class="overflow">
+<table>
+  <tr><th>Loader</th><td>Fabric</td></tr>
+  <tr><th>Minecraft</th><td>1.21.11 / 26.1.x / 26.2 <em>(keep this current)</em></td></tr>
+  <tr><th>Dependencies</th><td>Fabric API</td></tr>
+  <tr><th>Environment</th><td>Client only</td></tr>
+  <tr><th>License</th><td>All Rights Reserved</td></tr>
+</table>
+</div>
+
+<div class="card">
+  <h3 style="margin-top:0">Just want an off-switch, or fine control?</h3>
+  <p>Simple unlockers let you ignore a forced pack wholesale. NoForcedPacks adds two things on top: <strong>per-texture toggling</strong> (keep some textures, drop others) and <strong>persistence</strong> across sessions. If you only ever want all-or-nothing, any unlocker works; if you want granular, remembered control over a server's forced textures, that's what this is for.</p>
+</div>
+
+<div class="btns">
+  <a class="btn" href="https://modrinth.com/mod/noforcedpacks">Download on Modrinth</a>
+  <a class="btn secondary" href="https://www.curseforge.com/minecraft/mc-mods/noforcedpacks">Download on CurseForge</a>
+</div>
+
+<footer>
+  <p>NoForcedPacks by merenotnoone · <a href="https://github.com/YOURNAME/noforcedpacks">GitHub</a> · <a href="https://modrinth.com/mod/noforcedpacks">Modrinth</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/noforcedpacks">CurseForge</a></p>
+</footer>
+
+</div>
+</body>
+</html>
