@@ -47,7 +47,7 @@ Join a server that forces a resource pack, then open **Options → Resource Pack
 ## Links
 - **Modrinth:** https://modrinth.com/mod/noforcedpacks
 - **CurseForge:** https://www.curseforge.com/minecraft/mc-mods/noforcedpacks
-- **Website:** https://YOURNAME.github.io/noforcedpacks/ <!-- EDIT after enabling Pages -->
+- **Website:** https://merenotnoonereal.github.io/noforcedpacks/ <!-- EDIT after enabling Pages -->
 
 ## License
 **All rights reserved.** See the `LICENSE` file — this mod is not open source. Please don't re-upload or redistribute it; link to the official Modrinth/CurseForge pages instead.
