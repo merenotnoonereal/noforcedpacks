@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://merenotnoonereal.github.io/noforcedpacks/sitemap.xml
