@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0f1115">
+<title>How to Make Held Items Smaller in Minecraft (+ Swing Speed)</title>
+<meta name="description" content="Shrink the item in your hand from 10% to 200% and change your swing animation speed in Minecraft Java. Client-side, only you see it, works on any server.">
+<link rel="canonical" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-make-held-items-smaller/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to Make Held Items Smaller in Minecraft (+ Swing Speed)">
+<meta property="og:description" content="Shrink the item in your hand from 10% to 200% and change your swing animation speed in Minecraft Java. Client-side, only you see it, works on any server.">
+<meta property="og:url" content="https://merenotnoonereal.github.io/noforcedpacks/how-to-make-held-items-smaller/">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "How to make held items smaller in Minecraft",
+  "description": "Shrink the item in your hand from 10% to 200% and change your swing animation speed in Minecraft Java. Client-side, only you see it, works on any server.",
+  "url": "https://merenotnoonereal.github.io/noforcedpacks/how-to-make-held-items-smaller/",
+  "datePublished": "2026-10-20",
+  "dateModified": "2026-10-20",
+  "author": {
+    "@type": "Person",
+    "name": "merenotnoone"
+  },
+  "image": "https://cdn.modrinth.com/data/uIJyKdPm/images/0fdc7cee4cd6b18f34112064d513b9a39b8cdad2.gif",
+  "about": {
+    "@type": "SoftwareApplication",
+    "name": "NoForcedPacks",
+    "url": "https://merenotnoonereal.github.io/noforcedpacks/"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "NoForcedPacks",
+      "item": "https://merenotnoonereal.github.io/noforcedpacks/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Make held items smaller and change swing speed",
+      "item": "https://merenotnoonereal.github.io/noforcedpacks/how-to-make-held-items-smaller/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a vanilla setting to make held items smaller?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Minecraft Java has no option for the size of the item in your hand. A client-side mod like NoForcedPacks adds one."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does changing swing speed change my attack speed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. It only changes your own swing animation on your screen. Attacks, mining and what the server receives stay the same."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can other players see my smaller held items?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Item size and swing speed only change your own first-person view."
+      }
+    }
+  ]
+}
+</script>
+<style>
+  :root{
+    color-scheme:dark;
+    --bg:#0f1115; --fg:#e8eaed; --muted:#9aa0a6; --card:#171a20;
+    --border:#262a31; --accent:#3ea043; --accent-fg:#0f1115; --link:#5aa9f0;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);
+    font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;}
+  .wrap{max-width:820px;margin:0 auto;padding:2.5rem 1.25rem 4rem;}
+  header{border-bottom:1px solid var(--border);padding-bottom:1.5rem;margin-bottom:2rem;}
+  h1{font-size:2.1rem;line-height:1.15;margin:0 0 .5rem;}
+  .lede{font-size:1.15rem;color:var(--fg);margin:.5rem 0 1.25rem;}
+  .tagline{color:var(--muted);font-style:italic;margin:0 0 1.25rem;}
+  h2{font-size:1.4rem;margin:2.25rem 0 .75rem;}
+  h3{font-size:1.05rem;margin:1.25rem 0 .35rem;}
+  ul{padding-left:1.2rem;} li{margin:.3rem 0;}
+  a{color:var(--link);text-decoration:none;} a:hover{text-decoration:underline;}
+  img{max-width:100%;height:auto;}
+  .btns{display:flex;flex-wrap:wrap;gap:.75rem;margin:1.25rem 0;}
+  .btn{display:inline-block;background:var(--accent);color:var(--accent-fg);
+    padding:.7rem 1.15rem;border-radius:8px;font-weight:600;}
+  .btn.secondary{background:transparent;color:var(--fg);border:1px solid var(--border);}
+  .faq dt{font-weight:600;margin-top:1rem;}
+  .faq dd{margin:.25rem 0 0;color:var(--fg);}
+  table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.95rem;}
+  th,td{border:1px solid var(--border);padding:.5rem .7rem;text-align:left;vertical-align:top;}
+  th{background:var(--card);}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:1rem 1.25rem;margin:1.5rem 0;}
+  footer{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border);color:var(--muted);font-size:.9rem;}
+  .overflow{overflow-x:auto;}
+  .crumbs{color:var(--muted);font-size:.9rem;margin:0 0 1rem;}
+  .answer{background:var(--card);border:1px solid var(--border);border-left:4px solid var(--accent);border-radius:10px;padding:1rem 1.25rem;margin:1.25rem 0;}
+  .answer p{margin:.25rem 0;}
+  ol{padding-left:1.3rem;} ol li{margin:.45rem 0;}
+  .guides a{font-weight:600;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <p class="crumbs"><a href="../">NoForcedPacks</a> › Guides</p>
+  <h1>How to make held items smaller in Minecraft</h1>
+  <p class="tagline">Updated 2026-10-20 · Minecraft Java 1.21.11, 26.1, 26.2, 26.3</p>
+  <div class="answer"><p>Vanilla Minecraft has no setting for held item size. Install the free Fabric mod <strong>NoForcedPacks</strong>, open <strong>Individual Textures → Held items</strong>, and lower <strong>Item size</strong> (10% to 200%). The same screen changes your <strong>swing speed</strong> (5% to 200%).</p></div>
+  <div class="btns">
+    <a class="btn" href="https://modrinth.com/mod/noforcedpacks">Download NoForcedPacks on Modrinth</a>
+    <a class="btn secondary" href="https://www.curseforge.com/minecraft/mc-mods/noforcedpacks">CurseForge</a>
+  </div>
+</header>
+
+<h2 id="steps">Steps</h2>
+<ol>
+  <li>Install <a href="https://fabricmc.net/use/">Fabric Loader</a> (Minecraft Java 1.21.11, 26.1.x, 26.2 or 26.3) and put <a href="https://modrinth.com/mod/noforcedpacks">NoForcedPacks</a> in your <code>mods</code> folder. No Fabric API needed.</li>
+  <li>Join a world or server, press <strong>Esc</strong> and click <strong>TXT Packs</strong>.</li>
+  <li>Click <strong>Held items</strong> at the bottom of the screen.</li>
+  <li>Drag <strong>Item size</strong> down to shrink the item in your hand, or up to make it bigger. Your hand stays visible behind the screen, so you see the result live.</li>
+  <li>Drag <strong>Swing speed</strong> to slow your swing animation down or speed it up, and press <strong>Test swing</strong> to try it without hitting anything.</li>
+</ol>
+<p><strong>Reset</strong> puts both back to 100%. Settings are saved across restarts.</p>
+
+<h2 id="fair">Does it change attack speed?</h2>
+<p>No. Only your own first-person animation changes. Attacks, mining and everything the server receives are exactly the same, and other players see you as usual. That makes it safe to use on servers like Hypixel, though you should always check a server's rules.</p>
+
+<h2 id="more">Also in the same mod</h2>
+<p>NoForcedPacks also turns off forced server resource packs (like Hypixel SkyBlock's) and lets you <a href="../how-to-combine-texture-packs/">combine textures from several packs</a> item by item.</p>
+
+<h2 id="faq">FAQ</h2>
+<dl class="faq">
+  <dt>Is there a vanilla setting to make held items smaller?</dt>
+  <dd>No. Minecraft Java has no option for the size of the item in your hand. A client-side mod like NoForcedPacks adds one.</dd>
+
+  <dt>Does changing swing speed change my attack speed?</dt>
+  <dd>No. It only changes your own swing animation on your screen. Attacks, mining and what the server receives stay the same.</dd>
+
+  <dt>Can other players see my smaller held items?</dt>
+  <dd>No. Item size and swing speed only change your own first-person view.</dd>
+</dl>
+
+<div class="card guides">
+  <h3 style="margin-top:0">More guides</h3>
+  <ul>
+  <li><a href="../how-to-disable-hypixel-skyblock-texture-pack/">Disable the Hypixel SkyBlock texture pack</a></li>
+  <li><a href="../how-to-bypass-server-resource-packs/">Bypass or skip any server resource pack</a></li>
+  <li><a href="../how-to-combine-texture-packs/">Combine texture packs, item by item</a></li>
+  </ul>
+  <p style="margin-bottom:0"><a href="../">All NoForcedPacks features →</a></p>
+</div>
+
+<div class="btns">
+  <a class="btn" href="https://modrinth.com/mod/noforcedpacks">Download on Modrinth</a>
+  <a class="btn secondary" href="https://www.curseforge.com/minecraft/mc-mods/noforcedpacks">Download on CurseForge</a>
+</div>
+
+<footer>
+  <p>NoForcedPacks by merenotnoone · <a href="../">Home</a> · <a href="https://modrinth.com/mod/noforcedpacks">Modrinth</a> · <a href="https://www.curseforge.com/minecraft/mc-mods/noforcedpacks">CurseForge</a> · <a href="https://github.com/merenotnoonereal/noforcedpacks">GitHub</a></p>
+</footer>
+
+</div>
+</body>
+</html>
