@@ -1,7 +1,1326 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://merenotnoonereal.github.io/noforcedpacks/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/</loc><lastmod>2026-10-20</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/cs/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/de/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/es/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/es-es/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/fr/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/it/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/hu/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/nl/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/pl/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/pt/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/pt-pt/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/ro/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/sv/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/vi/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/tr/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/ru/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/uk/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/ja/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/ko/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/zh-cn/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/zh-tw/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
+  <url>
+    <loc>https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://merenotnoonereal.github.io/noforcedpacks/cs/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://merenotnoonereal.github.io/noforcedpacks/de/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://merenotnoonereal.github.io/noforcedpacks/es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://merenotnoonereal.github.io/noforcedpacks/es-es/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://merenotnoonereal.github.io/noforcedpacks/fr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://merenotnoonereal.github.io/noforcedpacks/it/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://merenotnoonereal.github.io/noforcedpacks/hu/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://merenotnoonereal.github.io/noforcedpacks/nl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://merenotnoonereal.github.io/noforcedpacks/pl/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://merenotnoonereal.github.io/noforcedpacks/pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://merenotnoonereal.github.io/noforcedpacks/pt-pt/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://merenotnoonereal.github.io/noforcedpacks/ro/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://merenotnoonereal.github.io/noforcedpacks/sv/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://merenotnoonereal.github.io/noforcedpacks/vi/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://merenotnoonereal.github.io/noforcedpacks/tr/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://merenotnoonereal.github.io/noforcedpacks/ru/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://merenotnoonereal.github.io/noforcedpacks/uk/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://merenotnoonereal.github.io/noforcedpacks/ja/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://merenotnoonereal.github.io/noforcedpacks/ko/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://merenotnoonereal.github.io/noforcedpacks/zh-cn/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://merenotnoonereal.github.io/noforcedpacks/zh-tw/how-to-disable-hypixel-skyblock-texture-pack/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://merenotnoonereal.github.io/noforcedpacks/how-to-disable-hypixel-skyblock-texture-pack/"/>
+  </url>
   <url><loc>https://merenotnoonereal.github.io/noforcedpacks/how-to-bypass-server-resource-packs/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://merenotnoonereal.github.io/noforcedpacks/how-to-combine-texture-packs/</loc><lastmod>2026-10-20</lastmod></url>
   <url><loc>https://merenotnoonereal.github.io/noforcedpacks/how-to-make-held-items-smaller/</loc><lastmod>2026-10-20</lastmod></url>
